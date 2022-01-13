@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Lutrra
+description: blog
 url: https://62HZ.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: 62HZ
   card: summary
 logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/62HZ
+    - https://github.com/62HZ
 google_site_verification: xxxxx
 lang: en
 
